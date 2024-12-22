@@ -1,0 +1,81 @@
+body{
+    background-image: url(bgcss.jpg);
+    background-size: cover;
+}
+.container{
+    border: 1px solid rgb(237, 234, 234);
+    background-color: rgba(255, 255, 255, 0);
+    height: 300px;
+    max-width:  300px;
+margin-top: 200px;
+margin-left: 525px;
+}
+.heading{
+    font-family: sans-serif;
+    text-align: center;
+    color: rgb(217, 53, 181);
+}
+#email{
+    margin: 5px 25px;
+    width: 250px;
+    margin-left: 20px;
+ height: 23px;
+font-family: sans-serif;
+}
+#password{
+    margin: 5px 25px;
+   margin-top: 15.5px;
+   width: 250px;
+    margin-left: 20.5px;
+   height: 25px;
+   font-family: sans-serif;
+}
+.forgot{
+    padding: 5px 20px;
+    font-size: 15.30px;
+    padding-top: 20px;
+    font-family: sans-serif;
+    color: black;
+}
+#forgotid{
+    color: black;
+}
+
+#login{
+    width: 250.0px;
+    margin-left: 25px;
+    margin-top: 20px;
+  font-size: 15px;
+    background-color: rgb(219, 88, 167);
+    color: white;
+    height: 30px;
+    border-color:rgb(224, 91, 199); ;
+    border-radius: 5px;
+     }
+#question{
+font-size: 10px;
+font-family: sans-serif;
+font-weight: bolder;
+padding-left: 50px;
+display: inline-block;
+
+}
+#redirect{
+color: black;
+font-size: 13px;
+text-align: center;
+font-family: sans-serif;
+}
+.sinup{
+
+display: inline-block;
+margin-left: 2px;
+text-decoration: underline;
+}
+#login:hover{
+    background-color: rgba(229, 197, 13, 0.852);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.container:hover{
+    background-color: rgba(229, 133, 189, 0.441);
+}
